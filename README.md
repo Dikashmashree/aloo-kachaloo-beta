@@ -1,1 +1,1 @@
-Latent Diffusion Model FROM SCRATCH !!!!!
+## Latent Diffusion Model FROM SCRATCH !!!!
